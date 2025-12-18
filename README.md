@@ -42,9 +42,9 @@ This project builds a **traditional scorecard pipeline** (WOE/IV + Logistic Regr
 
 ## Results (Validation)
 > Fill these in with your final numbers.
-- **Baseline LR (numeric):** AUC = ____, KS = ____
-- **WOE Scorecard LR:** AUC = ____, KS = ____
-- **Decile separation:** Top decile bad rate = ____% vs Bottom decile = ____%
+- **Baseline LR (numeric):** AUC = 0.7491, KS = 0.3711
+- **WOE Scorecard LR:** AUC = 0.7400, KS = 0.3500
+- **Decile separation:** Top decile bad rate = 26.68% vs Bottom decile = 1.53% (Decile 1 = highest predicted risk)
 
 ---
 
