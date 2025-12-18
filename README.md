@@ -50,10 +50,12 @@ This project builds a **traditional scorecard pipeline** (WOE/IV + Logistic Regr
 
 ## Visuals
 ### ROC Curve
-![ROC](figures/roc_curve.png)
+<img width="613" height="470" alt="image" src="https://github.com/user-attachments/assets/235250ef-fce9-4002-a948-c36386bab588" />
+
 
 ### Bad Rate by Predicted Risk Decile
-![Deciles](figures/bad_rate_by_decile.png)
+<img width="690" height="390" alt="image" src="https://github.com/user-attachments/assets/1fb5cad2-cde1-4df4-9131-c67284b9822b" />
+
 
 ---
 
